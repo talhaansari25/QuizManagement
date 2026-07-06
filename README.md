@@ -306,6 +306,3 @@ If you encounter any issues:
 ---
 
 **Happy Quizzing! 🎉**
-
-#   Q u i z M a n a g e m e n t  
- 
